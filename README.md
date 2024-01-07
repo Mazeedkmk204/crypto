@@ -1,26 +1,31 @@
 🚀 Cryptohunt App
+
 Welcome to the React Coin Tracker App! This application was developed to showcase my proficiency in React JS, API integration, user authentication using Firebase, and dynamic routing with React Router DOM. Below, you'll find an in-depth overview of the key features and technologies used in this project.
 
 📋 Features
-User Authentication: Users can easily create accounts using their email addresses and securely sign in. This feature enables users to save their favorite coins to a personalized list.
+User Authentication
+Users can easily create accounts using their email addresses and securely sign in. This feature enables users to save their favorite coins to a personalized list.
 
-Firestore Cloud Storage: A Firestore database is dynamically created at the time of user registration, providing seamless storage and retrieval of user-specific data.
+Firestore Cloud Storage
+A Firestore database is dynamically created at the time of user registration, providing seamless storage and retrieval of user-specific data.
 
-Dynamic Routing: Utilizing the "React Router DOM" package, the app implements dynamic routing, enhancing the user experience by providing smooth navigation between different sections of the application.
+Dynamic Routing
+Utilizing the "React Router DOM" package, the app implements dynamic routing, enhancing the user experience by providing smooth navigation between different sections of the application.
 
-Coin Gecko API Integration: This app leverages the Coin Gecko API to fetch real-time data about various cryptocurrencies. Users can stay informed with up-to-date information on coin prices, market trends, and more.
+Coin Gecko API Integration
+This app leverages the Coin Gecko API to fetch real-time data about various cryptocurrencies. Users can stay informed with up-to-date information on coin prices, market trends, and more.
 
 🚀 Getting Started
 Clone the Repository:
 
 bash
 Copy code
-(https://github.com/Mazeedkmk204/crypto.git)
+git clone https://github.com/Mazeedkmk204/crypto.git
+cd react-coin-tracker
 Install Dependencies:
 
 bash
 Copy code
-cd react-coin-tracker
 npm install
 Set Up Firebase:
 
@@ -35,14 +40,19 @@ npm start
 Explore and Enjoy!
 
 📷 Project Showcase
-![crypto project](https://github.com/Mazeedkmk204/crypto/assets/151126360/89768bb3-bad6-48a6-853c-36605f064a35)
+Crypto Project
+![crypto project](https://github.com/Mazeedkmk204/crypto/assets/151126360/7fe38ec3-b2ec-46d6-bf39-60efe26b91b1)
 
+![Screenshot (12)](https://github.com/Mazeedkmk204/crypto/assets/151126360/0077f52a-f2ff-4b84-9aa6-cdbd030a2f57)
+![Screenshot (11)](https://github.com/Mazeedkmk204/crypto/assets/151126360/55771906-104c-4533-b767-e591601c495b)
 
+![Screenshot (11)](https://github.com/Mazeedkmk204/crypto/assets/151126360/346b67ed-b5d7-4924-820e-1d356163391b)
 
 
 
 
 📈 Project Structure
+
 src/: Contains the main source code for the React Coin Tracker App.
 public/: Includes public assets, icons, and the HTML template.
 firebase/: Placeholder for Firebase configuration files.
