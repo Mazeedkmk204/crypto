@@ -15,7 +15,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/react-coin-tracker.git
+(https://github.com/Mazeedkmk204/crypto.git)
 Install Dependencies:
 
 bash
