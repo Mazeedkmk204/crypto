@@ -46,7 +46,8 @@ Crypto Project
 ![Screenshot (12)](https://github.com/Mazeedkmk204/crypto/assets/151126360/0077f52a-f2ff-4b84-9aa6-cdbd030a2f57)
 ![Screenshot (11)](https://github.com/Mazeedkmk204/crypto/assets/151126360/55771906-104c-4533-b767-e591601c495b)
 
-![Screenshot (11)](https://github.com/Mazeedkmk204/crypto/assets/151126360/346b67ed-b5d7-4924-820e-1d356163391b)
+![Screenshot (13)](https://github.com/Mazeedkmk204/crypto/assets/151126360/206cd87e-05a4-4eee-806c-0451a28739f1)
+
 
 
 
